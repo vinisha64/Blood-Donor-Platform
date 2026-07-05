@@ -2,9 +2,6 @@
 
 A full-stack MERN application that connects blood donors with hospitals through a secure, location-based platform. It enables donor registration, hospital management, blood request handling, and geolocation-based donor search with role-based access control.
 
-## 🌐 Live Demo
-
-🔗 Coming Soon
 
 ---
 
